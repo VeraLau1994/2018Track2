@@ -78,4 +78,4 @@ Validate your installation:
 
 chmod +x test.sh sudo ./test.sh step4. install docker
 
-chmod +x step4_install_docker.sh# 2018Track2
+chmod +x step4_install_docker.sh
